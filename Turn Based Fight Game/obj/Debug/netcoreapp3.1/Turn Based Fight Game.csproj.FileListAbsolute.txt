@@ -1,0 +1,17 @@
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Turn Based Fight Game.exe
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Turn Based Fight Game.deps.json
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Turn Based Fight Game.runtimeconfig.json
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Turn Based Fight Game.runtimeconfig.dev.json
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Turn Based Fight Game.dll
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Turn Based Fight Game.pdb
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.csproj.AssemblyReference.cache
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.AssemblyInfoInputs.cache
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.AssemblyInfo.cs
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.csproj.CopyComplete
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.dll
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.pdb
+C:\Users\ca.r213.15\Desktop\Turn Based Fight Game\Turn Based Fight Game\obj\Debug\netcoreapp3.1\Turn Based Fight Game.genruntimeconfig.cache
