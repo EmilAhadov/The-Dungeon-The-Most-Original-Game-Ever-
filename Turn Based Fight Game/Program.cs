@@ -6,75 +6,146 @@ namespace Turn_Based_Fight_Game
     {
         static void Main(string[] args)
         {
-            CharactherCreateMenu();
+            var (player, weapon) = CharactherCreateMenu();
+            BeginGame(player, weapon);
+
+
         }
-        static void CharactherCreateMenu()
+        #region CharactherCreateMenu
+        static (Player,Weapon) CharactherCreateMenu()
         {
-            Console.WriteLine("Please Chose your class: \n" +
+            Player player = null;
+            Weapon weapon= null;
+            do
+            {
+                Console.WriteLine("Please Chose your class: \n" +
                 "1.Assasin\n" +
                 "2.Barbarian\n" +
                 "3.Knight\n");
-            string playerClass = Console.ReadLine();
-            if (playerClass == "1")
-            {
-                AssasinClass();
-            }
-            else if (playerClass == "2")
-            {
-                BarbarianClass();
-            }
-            else if (playerClass == "3")
-            {
-                KnightClass();
-            }
+                string playerClass = Console.ReadLine();
+                if (playerClass == "1")
+                {
+                    player = new Assasin();
+                    weapon = AssasinClass();
+                }
+                else if (playerClass == "2")
+                {
+                    player = new Barbarian();
+                    weapon = BarbarianClass();
+                }
+                else if (playerClass == "3")
+                {
+                    player = new Knight();
+                    weapon = KnightClass();
+                }
+                else
+                {
+                    Console.WriteLine("Wrong choice try again");
+                }
+
+            } while (player == null);
+            return (player,weapon);
         }
-        static void AssasinClass()
+        static Weapon AssasinClass()
         {
-            Player assasin = new Assasin();
-            Console.WriteLine("Choose your weapon\n" +
+            Weapon assasinWeapon= null;
+            do
+            {
+                Console.WriteLine("Choose your weapon\n" +
                 "1.Double Dagger\n" +
                 "2.Twin Side Spear");
-            string playerWeapon = Console.ReadLine();
-            if (playerWeapon == "1")
-            {
-                Weapon doubleDagger = new DoubleDagger();
-            }
-            else if (playerWeapon == "2")
-            {
-                Weapon twinSideSpear = new Twin_Side_Spear();
-            }
+                string playerWeapon = Console.ReadLine();
+                if (playerWeapon == "1")
+                {
+                    assasinWeapon = new DoubleDagger();
+                }
+                else if (playerWeapon == "2")
+                {
+                    assasinWeapon = new Twin_Side_Spear();
+                }
+                else
+                {
+                    Console.WriteLine("Wrong choice try again");
+                }
+            } while (assasinWeapon == null);
+            return assasinWeapon;
         }
-        static void BarbarianClass()
+        static Weapon BarbarianClass()
         {
-            Player barbarian = new Barbarian();
-            Console.WriteLine("Choose your weapon\n" +
-                "1.Double Axe\n" +
-                "2.Wooden Mace");
-            string playerWeapon = Console.ReadLine();
-            if (playerWeapon == "1")
+            Weapon barbarianWeapon = null;
+            do
             {
-                Weapon doubleAxe = new DoubleAxe();
-            }
-            else if (playerWeapon == "2")
-            {
-                Weapon woodenMace = new WoodenMace();
-            }
+                Console.WriteLine("Choose your weapon\n" +
+                                    "1.Double Axe\n" +
+                                    "2.Wooden Mace");
+                string playerWeapon = Console.ReadLine();
+                if (playerWeapon == "1")
+                {
+                    barbarianWeapon = new DoubleAxe();
+                }
+                else if (playerWeapon == "2")
+                {
+                    barbarianWeapon = new WoodenMace();
+                }
+                else
+                {
+                    Console.WriteLine("Wrong choice try again");
+                }
+            } while (barbarianWeapon == null);
+            return barbarianWeapon;
         }
-        static void KnightClass()
+        static Weapon KnightClass()
         {
-            Player knight = new Knight();
-            Console.WriteLine("Choose your weapon\n" +
+            Weapon knightWeapon = null;
+
+            do
+            {
+                Console.WriteLine("Choose your weapon\n" +
                 "1.Steel Mace\n" +
                 "2.Long Sword");
-            string playerWeapon = Console.ReadLine();
-            if (playerWeapon == "1")
-            {
-                Weapon steelMace = new SteelMace();
-            }
-            else if (playerWeapon == "2")
-            {
-                Weapon longSword = new LongSword();
-            }
+                string playerWeapon = Console.ReadLine();
+                if (playerWeapon == "1")
+                {
+                    knightWeapon = new SteelMace();
+                }
+                else if (playerWeapon == "2")
+                {
+                    knightWeapon = new LongSword();
+                }
+                else
+                {
+                    Console.WriteLine("Wrong choice try again");
+                }
+
+            } while (knightWeapon == null);
+            return knightWeapon;
         }
+        #endregion
+
+        #region Fight System
+        static void BeginGame(Player player, Weapon weapon)
+        {
+            Level1(player, weapon);
+            Level2();
+            Level3();
+
+        }
+        static void Level1(Player player, Weapon weapon)
+        {
+
+        }
+        static void Level2()
+        {
+
+        }
+        static void Level3()
+        {
+
+        }
+
+
+
+
+        #endregion
     }
 }
