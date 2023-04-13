@@ -6,6 +6,11 @@
         {
             public Enemy(int health, int armor, int weight) : base(health, armor, weight) { }
         }
+        class MeatWall : Enemy
+        {
+            public MeatWall() : base(1000000000, 0, 0) { }
+
+        }
     }
 }
 

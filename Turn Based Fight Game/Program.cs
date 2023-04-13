@@ -132,7 +132,7 @@ namespace Turn_Based_Fight_Game
         }
         static void Level1(Player player, Weapon weapon)
         {
-
+            
         }
         static void Level2()
         {
@@ -147,5 +147,7 @@ namespace Turn_Based_Fight_Game
 
 
         #endregion
+
+
     }
 }

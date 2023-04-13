@@ -1,0 +1,14 @@
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.AssemblyReference.cache
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.15\Desktop\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Users\ca.r213.15\Desktop\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Users\ca.r213.15\Desktop\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Users\ca.r213.15\Desktop\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Users\ca.r213.15\Desktop\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Users\ca.r213.15\Desktop\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\ca.r213.15\Desktop\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache

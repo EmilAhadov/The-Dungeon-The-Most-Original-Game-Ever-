@@ -16,6 +16,10 @@ namespace Turn_Based_Fight_Game
                 _armor = armor;
                 _weight = weight;
             }
+            void TakeDamage(int damage)
+            {
+                _health -= damage;
+            }
         }
     }
 }
