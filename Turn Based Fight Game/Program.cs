@@ -13,7 +13,7 @@ namespace Turn_Based_Fight_Game
 
             var (player, weapon) = CharactherCreateMenu();
             Game game = new Game(player, weapon);
-
+            game.Level1();
 
         }
         #region CharactherCreateMenu
@@ -127,12 +127,7 @@ namespace Turn_Based_Fight_Game
         }
 
 #endregion
-#region Fight System
 
-
-
-
-        #endregion
 
 
     }

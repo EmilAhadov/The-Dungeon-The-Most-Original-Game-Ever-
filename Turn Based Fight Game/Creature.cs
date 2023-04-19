@@ -16,9 +16,13 @@ namespace Turn_Based_Fight_Game
                 _armor = armor;
                 _weight = weight;
             }
-            void TakeDamage(int damage)
+            public void TakeDamage(int damage)
             {
                 _health -= damage;
+            }
+            public bool CreatureDie(Creature creature)
+            {
+                return _health <= 0;
             }
         }
     }
