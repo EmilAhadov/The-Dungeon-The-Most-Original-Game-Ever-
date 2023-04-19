@@ -6,6 +6,8 @@
         {
             public Player(int health, int armor, int weight) : base(health, armor, weight) { }
         }
+
+        //-------------------------------------------------------------------------------------------
         class Assasin : Player
         {
             public Assasin() : base(100, 50, 60) { }

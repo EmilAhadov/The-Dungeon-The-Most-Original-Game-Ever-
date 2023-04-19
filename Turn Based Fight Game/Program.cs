@@ -6,8 +6,13 @@ namespace Turn_Based_Fight_Game
     {
         static void Main(string[] args)
         {
+            Dice dice = new Dice();
+            Console.WriteLine(dice.DiceReturn());
+
+
+
             var (player, weapon) = CharactherCreateMenu();
-            BeginGame(player, weapon);
+            Game game = new Game(player, weapon);
 
 
         }
@@ -120,28 +125,9 @@ namespace Turn_Based_Fight_Game
             } while (knightWeapon == null);
             return knightWeapon;
         }
-        #endregion
 
-        #region Fight System
-        static void BeginGame(Player player, Weapon weapon)
-        {
-            Level1(player, weapon);
-            Level2();
-            Level3();
-
-        }
-        static void Level1(Player player, Weapon weapon)
-        {
-            
-        }
-        static void Level2()
-        {
-
-        }
-        static void Level3()
-        {
-
-        }
+#endregion
+#region Fight System
 
 
 

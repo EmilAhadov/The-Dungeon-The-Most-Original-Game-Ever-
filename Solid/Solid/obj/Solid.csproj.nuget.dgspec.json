@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r213.15\\Desktop\\Solid\\Solid\\Solid.csproj": {}
+    "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Solid\\Solid\\Solid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r213.15\\Desktop\\Solid\\Solid\\Solid.csproj": {
+    "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Solid\\Solid\\Solid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\Solid\\Solid\\Solid.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Solid\\Solid\\Solid.csproj",
         "projectName": "Solid",
-        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\Solid\\Solid\\Solid.csproj",
+        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Solid\\Solid\\Solid.csproj",
         "packagesPath": "C:\\Users\\ca.r213.15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\Solid\\Solid\\obj\\",
+        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Solid\\Solid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r213.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
