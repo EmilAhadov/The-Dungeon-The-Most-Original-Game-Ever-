@@ -4,10 +4,11 @@
     {
         class Player : Creature
         {
-            public Player(int health, int armor, int weight) : base(health, armor, weight) { }
+            protected Player(int health, int armor, int weight) : base(health, armor, weight) { }
         }
 
         //-------------------------------------------------------------------------------------------
+        //Public must convert to protected
         class Assasin : Player
         {
             public Assasin() : base(100, 50, 60) { }

@@ -9,7 +9,7 @@ namespace Turn_Based_Fight_Game
             public int diceNumber;
             public int DiceReturn()
             {
-                diceNumber = random.Next(20);
+                diceNumber = random.Next(1,21);
                 return diceNumber; 
 
             }

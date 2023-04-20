@@ -6,14 +6,8 @@ namespace Turn_Based_Fight_Game
     {
         static void Main(string[] args)
         {
-            Dice dice = new Dice();
-            Console.WriteLine(dice.DiceReturn());
-
-
-
             var (player, weapon) = CharactherCreateMenu();
             Game game = new Game(player, weapon);
-            game.Level1();
 
         }
         #region CharactherCreateMenu

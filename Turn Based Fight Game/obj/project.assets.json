@@ -211,19 +211,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ca.r213.15\\.nuget\\packages\\": {}
+    "C:\\Users\\Durak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Turn Based Fight Game\\Turn Based Fight Game.csproj",
+      "projectUniqueName": "C:\\Users\\Durak\\Desktop\\The-Dungeon-The-Most-Original-Game-Ever-\\Turn Based Fight Game\\Turn Based Fight Game.csproj",
       "projectName": "Turn Based Fight Game",
-      "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Turn Based Fight Game\\Turn Based Fight Game.csproj",
-      "packagesPath": "C:\\Users\\ca.r213.15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Turn Based Fight Game\\obj\\",
+      "projectPath": "C:\\Users\\Durak\\Desktop\\The-Dungeon-The-Most-Original-Game-Ever-\\Turn Based Fight Game\\Turn Based Fight Game.csproj",
+      "packagesPath": "C:\\Users\\Durak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Durak\\Desktop\\The-Dungeon-The-Most-Original-Game-Ever-\\Turn Based Fight Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ca.r213.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Durak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -270,7 +270,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

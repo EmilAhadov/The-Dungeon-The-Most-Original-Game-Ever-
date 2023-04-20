@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VsxsKIEeBBCSDHkShIPg/b9QI/g9uu9nq4N/fk/tpqZn0xhQ/CvfzYnzYrbVCe9Wmw7dsAbe6zlslV026FHHGA==",
+  "dgSpecHash": "JjKifq8wj5VzmJU3gLlz3UcZCARD1jFth07ez6Qd/3i8s9GA4vnBh4O9UklNcbxVpOYnCuOTRJ+Ch4foqa0xyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca.r213.15\\Desktop\\Turn Based Fight Game\\Turn Based Fight Game\\Turn Based Fight Game.csproj",
+  "projectFilePath": "C:\\Users\\Durak\\Desktop\\The-Dungeon-The-Most-Original-Game-Ever-\\Turn Based Fight Game\\Turn Based Fight Game.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ca.r213.15\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
-    "C:\\Users\\ca.r213.15\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
-    "C:\\Users\\ca.r213.15\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\ca.r213.15\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+    "C:\\Users\\Durak\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\Durak\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Durak\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Durak\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
